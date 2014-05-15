@@ -1,2 +1,1 @@
-go
-==
+Free for everyone.
